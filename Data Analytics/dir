@@ -1,0 +1,5 @@
+hdfs dfs -mkdir /data
+hdfs dfs -mkdir /data/onboarding
+hdfs dfs -mkdir /data/onboarding/online
+hdfs dfs -mkdir /data/onboarding/branch
+hdfs dfs -mkdir /data/onboarding/mobile
